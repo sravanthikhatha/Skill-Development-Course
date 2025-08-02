@@ -157,7 +157,7 @@ Passionate about full-stack development and building impactful projects with mod
 This repository is open for learning and educational use.
 
 ---
-This project is **open-source** and free to use.
+This project is **open-source** and free to use. 
 
 ---
 
@@ -166,4 +166,5 @@ This project is **open-source** and free to use.
 [https://github.com/sravanthikhatha](https://github.com/sravanthikhatha)
 
 ---
+
 
