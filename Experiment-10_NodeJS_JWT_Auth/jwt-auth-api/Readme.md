@@ -155,8 +155,8 @@ POST /api/students
 
 ```json
 {
-  "name": "Swayam",
-  "age": 21,
+  "name": "Sravanthi",
+  "age": 20,
   "course": "Mathematics"
 }
 ```
@@ -185,8 +185,8 @@ DELETE /api/students/:id
 [
   {
     "id": 1,
-    "name": "Swayam",
-    "age": 21,
+    "name": "Sravanthi",
+    "age": 20,
     "course": "Mathematics"
   }
 ]
@@ -202,8 +202,8 @@ This project is **open-source** and free to use.
 
 ### **Author**
 
-• **M. Swayam Prakash**
+• **K Sravanthi**
 
-• GitHub: [https://github.com/swayamprakashm](https://github.com/swayamprakashm)
+• GitHub: [https://github.com/sravanthikhatha](https://github.com/sravanthikhatha)
 
 ---
