@@ -56,7 +56,7 @@ Payment:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/swayamprakashm/Skill-Development-Lab/Experiment-02_Shopping-cart-app_Bootstrap/ShoppingCartApp.git
+   git clone https://github.com/sravanthikhatha/Skill-Development-Course/Experiment-02_Shopping-cart-app_Bootstrap/ShoppingCartApp.git
    ```
 
 2. **Navigate to the HTML directory**:
