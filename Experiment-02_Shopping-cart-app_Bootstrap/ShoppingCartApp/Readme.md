@@ -100,8 +100,8 @@ This project is **open-source** and free to use.
 
 ### **Developed by:**
 
-•**M. Swayam Prakash**
+•**K Sravanthi**
 
-•GitHub: [https://github.com/swayamprakashm](https://github.com/swayamprakashm)
+•GitHub: [https://github.com/sravanthikhatha](https://github.com/sravanthikhatha)
 
 ---
