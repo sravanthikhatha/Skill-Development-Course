@@ -74,7 +74,7 @@ ShoppingCartApp/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/swayamprakashm/Skill-Development-Lab/Experiment-01_Shopping-cart-app_CSS/Shopping-cart-app.git
+   git clone https://github.com/sravanthikhatha/Skill-Development-Course/Experiment-01_Shopping-cart-app_CSS/Shopping-cart-app.git
    ```
 2. Navigate to the project directory:
 
@@ -107,8 +107,8 @@ This project is **open-source** and free to use.
 
 ### **Developed by:**
 
-•**M. Swayam Prakash**
+•**K. Sravanthi**
 
-•GitHub: [https://github.com/swayamprakashm](https://github.com/swayamprakashm)
+•GitHub: [https://github.com/sravanthikhatha](https://github.com/sravanthikhatha)
 
 ---
